@@ -1,0 +1,8 @@
+jpaprueba\persistencia\AlumnoJpaController.class
+jpaprueba\logica\Alumno_.class
+jpaprueba\persistencia\ControladoraPersistencia.class
+jpaprueba\persistencia\exceptions\NonexistentEntityException.class
+jpaprueba\persistencia\exceptions\PreexistingEntityException.class
+jpaprueba\persistencia\exceptions\IllegalOrphanException.class
+jpaprueba\logica\Alumno.class
+jpaprueba\JPAPrueba.class
