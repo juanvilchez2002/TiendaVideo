@@ -3,6 +3,7 @@
   <persistence-unit name="TiendaVideoPruebaJPAPU" transaction-type="RESOURCE_LOCAL">
     <provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
     <class>jpaprueba.logica.Alumno</class>
+    <class>jpaprueba.logica.Carrera</class>
     <properties>
       <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/pruebajpa?useSSL=false"/>
       <property name="javax.persistence.jdbc.user" value="root"/>
